@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scoreboard-React.app/static/css/main.ac66ef85.css",
+    "main.js": "/Scoreboard-React.app/static/js/main.38f67a27.js",
+    "static/js/787.e0404fc4.chunk.js": "/Scoreboard-React.app/static/js/787.e0404fc4.chunk.js",
+    "index.html": "/Scoreboard-React.app/index.html",
+    "main.ac66ef85.css.map": "/Scoreboard-React.app/static/css/main.ac66ef85.css.map",
+    "main.38f67a27.js.map": "/Scoreboard-React.app/static/js/main.38f67a27.js.map",
+    "787.e0404fc4.chunk.js.map": "/Scoreboard-React.app/static/js/787.e0404fc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac66ef85.css",
+    "static/js/main.38f67a27.js"
+  ]
+}
